@@ -16,7 +16,7 @@ flooding_process = None
 flooding_command = None
 
 
-DEFAULT_THREADS = 760
+DEFAULT_THREADS = 1000
 
 
 users = {}
